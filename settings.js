@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94719221805Ravindu Fdo 🅡🅝'] //ur owner number
+global.ownername = "Ravindu Fdo 🅡🅝" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'VuFi Bot 🤖🅡🅝' //ur bot name
+global.wm = "VuFi Bot 🤖🅡🅝" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -30,7 +30,7 @@ global.LANG = 'EN'
 global.READ_MASSAGE = true
 
 // enable desable Girls Voice Reply
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 // Do you want show time on your bio use "true" want desable use "false"
 global.AUTO_BIO = false
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 VuFi Bot 🤖🅡🅝'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -58,30 +58,30 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 
 //SEX_VIDEO_DOWNLOAD
-global.SEX_VIDEO_DOWNLOAD ='true'
+global.SEX_VIDEO_DOWNLOAD ='false'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = ' Bye Bye.....' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
+global.ytname = "YT: -" //ur yt chanel name
+global.socialm = "Insta: ravindufdo2002" //ur github or insta name
+global.linkz = "https://chat.whatsapp.com/IUG2fuk3zL7HNH4zoYYbwq" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.facebook.com/Ravindu.Fernando.2002/" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
 //Alive 
-global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg`
+global.alivelogo = process.env.ALIVE_LOGO || `https://i.ibb.co/N1DfbGF/Whats-App-Image-2021-12-18-at-12-13-04-AM.jpg`
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "VuFi Bot 🤖🅡🅝" 
 
 //Anti Bad Word
-global.ANTI_BADWORD = 'true'
+global.ANTI_BADWORD = 'false'
 
 //Antilink
-global.antilink = 'true'
+global.antilink = 'false'
 
 
 //OTHERS  
